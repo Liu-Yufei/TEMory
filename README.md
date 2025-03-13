@@ -1,6 +1,6 @@
 # TEMory
 TEMory, a model featuring a Temporal Encoder and Memory Unit, designed for weakly supervised colonic polyp frame detection with a comprehensive understanding of normal frame characteristics.
-> [**ChineseCSCW'24 Accept (Short Paper)**] [**TEmory: A Temporal-Memory Approach to Weakly Supervised Colonic Polyp Frame Detection**]()
+> [**ChineseCSCW'24 Accept (Short Paper)**] [**TEmory: A Temporal-Memory Approach to Weakly Supervised Colonic Polyp Frame Detection**](https://link.springer.com/chapter/10.1007/978-981-96-2373-0_27)
 >
 >
 
