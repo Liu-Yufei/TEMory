@@ -31,7 +31,7 @@ Additionally, the Memory Unit, constituted by multiple parallel self-attention m
 
 ## Citation
 If you find our work useful, please cite:
-'''bibtex
+```bibtex
 @inproceedings{liu2024temory,
   title={TEmory: A Temporal-Memory Approach to Weakly Supervised Colonic Polyp Frame Detection},
   author={Liu, Yufei and Gao, Jianzhe and Luo, Zhiming and Li, Shaozi},
@@ -40,7 +40,7 @@ If you find our work useful, please cite:
   year={2024},
   organization={Springer}
 }
-'''
+```
 If you use the dataset, please also consider citing the papers below:
 ```bibtex
 @inproceedings{ma2021ldpolypvideo,
