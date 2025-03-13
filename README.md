@@ -4,7 +4,7 @@ TEMory, a model featuring a Temporal Encoder and Memory Unit, designed for weakl
 >
 >
 ## Task
-Following existing works, we formulate weakly supervised colonic polyp frame detection task as anomaly detection task.
+Following existing works, we this formulate weakly supervised colonic polyp frame detection task as an anomaly detection task.
 
 <img src="assets/task.png" width="90%">
 
